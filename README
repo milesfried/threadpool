@@ -1,3 +1,5 @@
+Compile and Run in the java environment of your choice
+
 ThreadPool implented using a custom thread class to check for interupts + synchronizes the queue to run objects of the Task class without being constructed with a Task object.
 Utilized the following implementation to build the ThreadRunner class:
 https://www.javacodegeeks.com/2016/12/implement-thread-pool-java.html
