@@ -1,3 +1,6 @@
+Code Base originally from Operating Systems Textbook: 
+https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366/ref=pd_lpo_1?pd_rd_i=1119800366&psc=1
+
 Compile and Run in the java environment of your choice
 
 ThreadPool implented using a custom thread class to check for interupts + synchronizes the queue to run objects of the Task class without being constructed with a Task object.
